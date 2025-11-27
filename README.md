@@ -1,21 +1,20 @@
 # 👋 Hi, I'm **Tejesh Reddy**
-### **Software Development Engineer | Backend Architect | Node.js • NestJS • MySQL • AWS**
+### **Software Development Engineer | Backend Architect | Node.js • NestJS • MySQL • Redis • AWS**
 
-I build **scalable, resilient backend systems** with a strong focus on clean architecture, performance optimization, and cloud deployments. I specialize in **Node.js**, **NestJS**, and **AWS**, and I love designing systems that are production-ready, future-proof, and easy to maintain.
+I build **scalable, resilient backend systems** with a strong focus on clean architecture, performance optimization, caching strategies, and cloud deployments. I specialize in **Node.js**, **NestJS**, **Redis**, and **AWS**, and I design systems that are production-ready, future-proof, and easy to maintain.
 
 ---
 
 ## 🚀 About Me
 
 - 🟦 Strong backend foundation: **Node.js, NestJS, TypeScript, Express.js**
-- 🚀 Experienced in deploying production systems using **AWS Lightsail, S3, CloudFront, SES, EC2**
-- 📦 Skilled in **database design**, schema modeling, and **MySQL performance optimization**
-- 🗄 Worked with large datasets, raw SQL aggregation, and MongoDB logging pipelines
+- 🔥 Advanced caching experience with **Redis** (raw usage, cache manager, rate limiting, sliding TTL patterns)
+- 🚀 Deploying and managing production environments using **AWS Lightsail, S3, CloudFront, SES, EC2**
+- 📦 Skilled in **database design**, schema modeling, raw SQL, and **MySQL performance tuning**
+- 🗄 Experience with large datasets, heavy aggregation, and MongoDB-based logging pipelines
 - 🔄 Implementing **CI/CD pipelines** and automated test workflows
-- 🎥 Building **WebRTC-based live streaming**
-- 🧪 Working with **Cucumber.js** for E2E testing
-- 🧠 Learning **DSA in C++** and exploring **blockchain fundamentals**
-- 📚 Passionate about clean code, performance tuning, and scalable architecture
+- 🧪 Using **Cucumber.js** for end-to-end testing
+- 📚 Strong believer in clean code, performance tuning, and scalable architecture
 
 ---
 
@@ -32,38 +31,42 @@ I build **scalable, resilient backend systems** with a strong focus on clean arc
 ### **Databases**
 - MySQL, MongoDB, SQLite  
 
+### **Cache & Message Brokers**
+- **Redis** (cache, pub/sub, rate limiting, session storage)  
+
 ### **DevOps & Tools**
 - AWS (Lightsail, S3, CloudFront)  
 - Docker, Nginx, PM2  
 - GitHub Actions (CI/CD)  
-- Redis  
 - Cucumber.js (E2E testing)  
 
 ---
 
 ## 💼 What I Build
 
-- Scalable backend architectures with modular design  
+- Scalable backend architectures with clean modular design  
 - High-performance REST APIs  
-- Real-time features using **WebRTC**  
-- Automated CI/CD pipelines  
-- Optimized database schemas and SQL queries  
-- Logging & debugging pipelines  
-- Secure, production-grade AWS deployments  
+- Optimized caching layers with **Redis** for fast, low-latency responses  
+- Automated CI/CD pipelines for smooth deployments  
+- Efficient database schemas and high-performance SQL queries  
+- Logging, monitoring & debugging tools  
+- Secure and production-ready AWS deployments  
+
+---
 
 ## 🎯 Areas of Interest
 
 - Backend architecture & system design  
-- High-performance databases  
-- Cloud-native applications  
-- Event-driven systems  
+- High-performance caching (Redis)  
+- Cloud-native apps & distributed systems  
+- Real-time communication protocols  
 - Observability (logs, metrics, traces)  
-- Clean code & design patterns  
+- Clean code & advanced design patterns  
 
 ---
 
 ## 📬 Let's Connect
 
-I enjoy backend engineering, debugging complex systems, and helping teams build scalable architectures.  
-Feel free to reach out if you'd like to collaborate or discuss ideas!
+I love building backend systems, solving complex performance issues, and designing scalable architecture.  
+Feel free to connect or collaborate!
 
